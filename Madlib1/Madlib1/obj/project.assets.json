@@ -687,11 +687,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\users\\membr\\source\\repos\\Madlib1\\Madlib1\\Madlib1.csproj",
+      "projectUniqueName": "C:\\Users\\membr\\source\\repos\\simpleMadLib1\\Madlib1\\Madlib1\\Madlib1.csproj",
       "projectName": "Madlib1",
-      "projectPath": "c:\\users\\membr\\source\\repos\\Madlib1\\Madlib1\\Madlib1.csproj",
+      "projectPath": "C:\\Users\\membr\\source\\repos\\simpleMadLib1\\Madlib1\\Madlib1\\Madlib1.csproj",
       "packagesPath": "C:\\Users\\membr\\.nuget\\packages\\",
-      "outputPath": "c:\\users\\membr\\source\\repos\\Madlib1\\Madlib1\\obj\\",
+      "outputPath": "C:\\Users\\membr\\source\\repos\\simpleMadLib1\\Madlib1\\Madlib1\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
